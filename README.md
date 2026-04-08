@@ -19,6 +19,9 @@ streamlit run app.py
 ![ingest all](pics/pic1.png)
 ![multimodal search](pics/pic2.png)
 
+Another search example "Star wars" can be found at 
+[here](pics/pic3.png)
+
 **License** ⚖️
 
 This software is licensed under the [Apache License, version 2 ("ALv2")](https://github.com/elastic/elasticsearch-labs/blob/main/LICENSE).
