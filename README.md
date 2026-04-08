@@ -1,4 +1,4 @@
-This project shows how to make use of JINA multimodal embedding ([jinaai/jina-embeddings-v5-text-small](https://huggingface.co/jinaai/jina-embeddings-v5-text-small)) to do semantic search. Further more, it shows how to make use of GEMINI 3 Flash Multimodal LLM do to RAG.
+This project shows how to make use of JINA multimodal embedding ([jinaai/jina-embeddings-v4](https://huggingface.co/jinaai/jina-embeddings-v4)) to do semantic search. Further more, it shows how to make use of GEMINI 3 Flash Multimodal LLM do to RAG.
 
 In order to run the app, you need to configure the .env file:
 
