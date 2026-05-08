@@ -3,6 +3,7 @@ This project shows how to make use of JINA multimodal embedding ([jinaai/jina-em
 There are two folders:
 - images
 - texts
+
 In the above two folders, they contain all of the files we want to ingest into Elasticsearch.
 
 In order to run the app, you need to configure the .env file:
